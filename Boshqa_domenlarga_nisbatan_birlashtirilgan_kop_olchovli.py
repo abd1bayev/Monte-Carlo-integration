@@ -2,36 +2,36 @@ import numpy as np
 
 
 def func1(x):
-    # function f(x)= 10 + sum_i(-x_i^2)
-    # for 2D: f(x)= 10 - x1^2 - x2^2
+    # funksiya f(x)= 10 + sum_i(-x_i^2) 6 
+    # 2D uchun: f(x)= 10 - x1^2 - x2^2
     return 10 + np.sum(-1 * np.power(x, 2), axis=1)
 
 
 def domain_unit_circle(x):
-    # integration domain: sum of x^2 <= 1. 
-    # For 2d, it's a unit circle; for 3d it's a unit sphere, etc
-    # returns True for inside domain, False for outside
+# integratsiya domeni: x^2 <= 1 yig'indisi. 12 
+# 2d uchun bu birlik doira; 3D uchun bu birlik shar va boshqalar 13 
+# ichki domen uchun True, tashqarisi uchun False qiymatini qaytaradi
 
     return np.power(x, 2).sum() <= 1
 
 
 def mc_integrate(func, func_domain, a, b, dim, n=1000):
-    # Monte Carlo integration of given function over domain specified by func_domain
-    # dim: dimensions of function
+    # Func_domain tomonidan belgilangan domen orqali berilgan funksiyaning Monte-Karlo integratsiyasi 20 21 
+    # xira: funktsiya o'lchamlari
 
-    # sample x
+    # namuna x
     x_list = np.random.uniform(a, b, (n, dim))
 
-    # determine whether sampled x is inside or outside of domain and calculate its volume
+     # namunali x domen ichida yoki tashqarisida ekanligini aniqlang va uning hajmini hisoblang
     inside_domain = [func_domain(x) for x in x_list]
     frac_in_domain = sum(inside_domain) / len(inside_domain)
     domain = np.power(b - a, dim) * frac_in_domain
 
-    # calculate expected value of func inside domain
+    # domen ichidagi funcning kutilgan qiymatini hisoblang
     y = func(x_list)
     y_mean = y[inside_domain].sum() / len(y[inside_domain])
 
-    # estimated integration
+    # taxminiy integratsiya
     integ = domain * y_mean
 
     return integ
