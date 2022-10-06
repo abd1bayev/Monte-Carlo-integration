@@ -1,4 +1,5 @@
 <img width="306" alt="Снимок экрана 2022-10-06 в 14 57 04" src="https://user-images.githubusercontent.com/99121169/194284294-92c38029-17ab-4715-964d-d6b2421a7948.png">
+
 # Python-da bir o'zgaruvchan va ko'p o'lchovli funktsiyalar bo'yicha Monte-Karlo integratsiyasi
 
 - Monte-Karlo integratsiyasi - bu funktsiyaning integratsiyasini raqamli baholash uchun asosiy Monte-Karlo usuli f( x ). Biz bu erda nazariyani Pythondagi misollar bilan birga muhokama qilamiz.
