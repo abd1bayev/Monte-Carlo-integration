@@ -2,17 +2,17 @@ import numpy as np
 
 
 def func1(x):
-    # function f(x)=x^2
+    # funksiya f(x)=x^2
     return x ** 2
 
 
 def func1_int(a, b):
-    # analytical solution to integral of f(x)
+    # f(x) integralining analitik yechimi
     return (1 / 3) * (b ** 3 - a ** 3)
 
 
 def mc_integrate(func, a, b, n=1000):
-    # Monte Carlo integration between x1 and x2 of given function from a to b
+    # a dan b gacha berilgan funksiyaning x1 va x2 o'rtasidagi Monte-Karlo integratsiyasi
 
     vals = np.random.uniform(a, b, n)
     y = [func(val) for val in vals]
