@@ -42,7 +42,7 @@ Keling, bir xil ikki o'zgaruvchan funktsiyadan foydalanamizf( x ) = 10 − x12�
 
 Pythonda bu shunday ko'rinadi:
 
-<img width="732" alt="Снимок экрана 2022-10-06 в 14 23 17" src="https://user-images.githubusercontent.com/99121169/194277912-fab75f5d-70b8-420c-8376-3f349f41b2ec.png">
+![image](https://user-images.githubusercontent.com/99121169/194283989-26ff4f39-688f-4ab4-9cba-d6447a3d990f.png)
 
 
 Natija:
@@ -53,7 +53,7 @@ Analitik yechim: 29,845
 
 # Biz ularni Python-da aniqlaymiz va Monte-Karlo integratsiyasini amalga oshiramiz
 
-<img width="652" alt="Снимок экрана 2022-10-06 в 14 23 28" src="https://user-images.githubusercontent.com/99121169/194278020-4ebd2a46-466e-455a-b56d-13232317630f.png">
+![image](https://user-images.githubusercontent.com/99121169/194284042-20a41860-c222-4310-9207-4b74bc92a77e.png)
 
 - Tasdiqlash sifatida biz pmvnEllellipsoidlar (doiralar kiritilgan) bo'yicha ko'p o'zgaruvchan normal taqsimotlarni birlashtira oladigan funksiyadan foydalanamiz.
 
