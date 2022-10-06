@@ -1,4 +1,5 @@
-<img width="340" alt="Снимок экрана 2022-10-06 в 15 20 37" src="https://github.com/boyangzhao">      <img width="284" alt="Снимок экрана 2022-10-06 в 15 22 02" src="https://boyangzhao.github.io/posts/monte-carlo-integration">
+<img width="340" alt="Снимок экрана 2022-10-06 в 15 20 37" src="https://user-images.githubusercontent.com/99121169/194289122-a9730b87-e08b-484e-ad5e-764406930885.png">      <img width="284" alt="Снимок экрана 2022-10-06 в 15 22 02" src="https://user-images.githubusercontent.com/99121169/194289448-cd0441ab-917a-4aab-8a3d-c697149b7ca3.png">
+
 <img width="834" alt="Снимок экрана 2022-10-06 в 15 59 33" src="https://user-images.githubusercontent.com/99121169/194296441-58bc35fa-f40a-4964-bd66-dd8600960f93.png">
 <img width="791" alt="Снимок экрана 2022-10-06 в 16 00 02" src="https://user-images.githubusercontent.com/99121169/194296514-274806a8-faa3-4da3-910d-d06c8cf35852.png">
 
