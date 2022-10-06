@@ -5,7 +5,7 @@ import scipy.stats as st
 
 
 class func_mvn:
-    # multivariate normal given mean and covariance
+    # ko'p o'zgaruvchan normal berilgan o'rtacha va kovariatsiya
     def __init__(self, mu, cov):
         self.mu = mu
         self.cov = cov
