@@ -27,11 +27,15 @@ Ko'p o'lchovli funktsiyalar uchun integratsiyani ham amalga oshirishimiz mumkin.
 Natijalar:
 
 - f(x)= 10 - x1 2 - x2 2 uchun, -2 dan 2 gacha (barcha x uchun)
+
 integrallangan Monte-Karlo yechimi: 117,346
+
 Analitik yechim: 117,333
 
 - f(x)= 10 - x1 2 - x2 2 - x3 2 uchun, -2 dan 2 gacha (barcha x uchun) integratsiyalangan
+
 Monte-Karlo yechimi: 383,888
+
 Analitik yechim: 384,000
 
 # Misol | Boshqa domenlar bilan birlashtirilgan ko'p o'lchovli
@@ -50,7 +54,9 @@ Pythonda bu shunday ko'rinadi:
 Natija:
 
 - f(x)= 10 - x1 2 - x2 2 uchun, birlik aylanasi ustida birlashtirilgan
+
 Monte-Karlo yechimi: 29,849
+
 Analitik yechim: 29,845
 
 # Biz ularni Python-da aniqlaymiz va Monte-Karlo integratsiyasini amalga oshiramiz
@@ -62,8 +68,11 @@ Analitik yechim: 29,845
 Natijalar bir-biriga mos kelishi bilan:
 
 - Ko‘p o‘zgaruvchan normal, birlik aylanasi bo‘yicha integratsiyalangan
+
 Monte-Karlo yechimi uchun: 0,2020 pmvnEll’dan
+
 yechim (shotGroups pkg R ichida): 0,2019
+
 # Qo'shimcha sharhlar:
 
 - Shubhasiz, taqdim etilgan misollar oddiy va ba'zilarida aniq holatlar uchun analitik echimlar va/yoki Python/R paketlari mavjud. Ammo ular Monte-Karlo integratsiyasi ortidagi mexanikani tushunish uchun foydalidir. Ko'rinib turibdiki, tasvirlangan Monte-Karlo usuli yopiq shaklli echimlarsiz murakkabroq funktsiyalarga osonlikcha umumlashtiriladi. Bundan tashqari, tanlab olishni amalga oshirishning ko'plab optimallashtirilgan usullari mavjud (masalan, tabaqalashtirilgan namuna olish, ahamiyatli namuna olish va h.k.) va agar qiziqsa, o'quvchilar ushbu mavzularni ko'proq o'qishlari tavsiya etiladi.
