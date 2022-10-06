@@ -20,7 +20,7 @@ Bu erda Monte-Karlo yaqinlashuvi analitik yechimga juda yaqin. Vizual ravishda i
 
 Ko'p o'lchovli funktsiyalar uchun integratsiyani ham amalga oshirishimiz mumkin. Jarayon avvalgisiga o'xshaydi. Biroq, chiziq bo'ylab namuna olish o'rniga (dan a uchun b), endi biz yuqori o'lchamli domendan namuna olishimiz kerak. Oddiylik uchun biz ko'p o'zgaruvchan funktsiyani bir xil bo'lgan domenga integratsiyalashni tasvirlaymiz.a va b har bir o'zgaruvchi uchun. Bu ikkita o'zgaruvchiga (x1 va x2) ega bo'lgan funktsiyada domen kvadrat shaklda ekanligini anglatadi; va uchta o'zgaruvchiga ega funksiya uchun kub shaklida.
 
-<img width="703" alt="Снимок экрана 2022-10-06 в 14 22 58" src="https://user-images.githubusercontent.com/99121169/194277713-c4a1748e-719d-48e1-b388-0d877f852961.png">
+![image](https://user-images.githubusercontent.com/99121169/194283836-cce96827-b8aa-4793-aa77-2a594df96cca.png)
 
 Natijalar:
 
