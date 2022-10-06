@@ -69,7 +69,7 @@ Natijalar bir-biriga mos kelishi bilan:
 
 - Ko‘p o‘zgaruvchan normal, birlik aylanasi bo‘yicha integratsiyalangan
 
-Monte-Karlo yechimi uchun: 0,2020 pmvnEll’dan
+Monte-Karlo yechimi uchun: 0,2020 
 
 yechim (shotGroups pkg R ichida): 0,2019
 
