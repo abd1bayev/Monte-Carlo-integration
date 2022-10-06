@@ -12,13 +12,14 @@ Biz quyidagi natijalarga erishamiz:
 
 Bu erda Monte-Karlo yaqinlashuvi analitik yechimga juda yaqin. Vizual ravishda integratsiyaf( x ) =x2-2 dan 2 gacha quyida ko'k rangda ko'rsatilgan. Taxminan qizil rang bilan belgilangan to'rtburchakdir.
 
-![](../../../../../../../var/folders/lq/7btllx4953scrkzwd28d3q040000gp/T/TemporaryItems/NSIRD_screencaptureui_LDlv1l/Снимок экрана 2022-10-06 в 13.18.17.png)
+<img width="404" alt="Снимок экрана 2022-10-06 в 14 22 13" src="https://user-images.githubusercontent.com/99121169/194277575-3bd8dfd7-08a3-4821-a59f-0e9821d2cd77.png">
+
 
 # Misol | Ko'p o'zgaruvchan
 
 Ko'p o'lchovli funktsiyalar uchun integratsiyani ham amalga oshirishimiz mumkin. Jarayon avvalgisiga o'xshaydi. Biroq, chiziq bo'ylab namuna olish o'rniga (dan a uchun b), endi biz yuqori o'lchamli domendan namuna olishimiz kerak. Oddiylik uchun biz ko'p o'zgaruvchan funktsiyani bir xil bo'lgan domenga integratsiyalashni tasvirlaymiz.a va b har bir o'zgaruvchi uchun. Bu ikkita o'zgaruvchiga (x1 va x2) ega bo'lgan funktsiyada domen kvadrat shaklda ekanligini anglatadi; va uchta o'zgaruvchiga ega funksiya uchun kub shaklida.
 
-![](../../../../../../../var/folders/lq/7btllx4953scrkzwd28d3q040000gp/T/TemporaryItems/NSIRD_screencaptureui_6Vt3hY/Снимок экрана 2022-10-06 в 13.20.37.png)
+<img width="703" alt="Снимок экрана 2022-10-06 в 14 22 58" src="https://user-images.githubusercontent.com/99121169/194277713-c4a1748e-719d-48e1-b388-0d877f852961.png">
 
 Natijalar:
 
@@ -36,11 +37,12 @@ Integratsiya amalga oshiriladigan domen yanada murakkab va undan namuna olish va
 
 Keling, bir xil ikki o'zgaruvchan funktsiyadan foydalanamizf( x ) = 10 − x12− x22va birlik doirasi bo'ylab integrasiya qiling. To'liq birlik doirasi bo'ylab yagona namuna olish kvadrat mintaqada (birlik doirasini qamrab olgan) namuna olishdan ko'ra qiyinroqdir. Bundan biz 1) domenning maydonini tanlab olingan kvadrat maydonining domen ichidagi tanlangan nuqtalar nisbati bo'yicha ko'paytmasi sifatida hisoblashimiz mumkin, 2) domen ichidagi tanlab olingan nuqtalarning o'rtacha f (x) sifatidagi kutish . Quyida namuna olishning vizual ko'rinishi (yashil rangda ko'rsatilgan birlik doirasi ichidagi namuna nuqtalari),
 
-![](../../../../../../../var/folders/lq/7btllx4953scrkzwd28d3q040000gp/T/TemporaryItems/NSIRD_screencaptureui_XdC2jE/Снимок экрана 2022-10-06 в 13.24.22.png)
+<img width="431" alt="Снимок экрана 2022-10-06 в 14 23 05" src="https://user-images.githubusercontent.com/99121169/194277798-e8cf9f53-2bd4-4934-9841-e572f9b8295a.png">
 
 Pythonda bu shunday ko'rinadi:
 
-![](../../../../../../../var/folders/lq/7btllx4953scrkzwd28d3q040000gp/T/TemporaryItems/NSIRD_screencaptureui_Kcj0bz/Снимок экрана 2022-10-06 в 13.24.54.png)
+<img width="732" alt="Снимок экрана 2022-10-06 в 14 23 17" src="https://user-images.githubusercontent.com/99121169/194277912-fab75f5d-70b8-420c-8376-3f349f41b2ec.png">
+
 
 Natija:
 
@@ -50,7 +52,7 @@ Analitik yechim: 29,845
 
 # Biz ularni Python-da aniqlaymiz va Monte-Karlo integratsiyasini amalga oshiramiz
 
-![](../../../../../../../var/folders/lq/7btllx4953scrkzwd28d3q040000gp/T/TemporaryItems/NSIRD_screencaptureui_7eq6iM/Снимок экрана 2022-10-06 в 13.26.48.png)
+<img width="652" alt="Снимок экрана 2022-10-06 в 14 23 28" src="https://user-images.githubusercontent.com/99121169/194278020-4ebd2a46-466e-455a-b56d-13232317630f.png">
 
 - Tasdiqlash sifatida biz pmvnEllellipsoidlar (doiralar kiritilgan) bo'yicha ko'p o'zgaruvchan normal taqsimotlarni birlashtira oladigan funksiyadan foydalanamiz.
 
