@@ -1,11 +1,9 @@
 import numpy as np
 
-
 def func1(x):
     # funksiya f(x)= 10 + sum_i(-x_i^2) 6 
     # 2D uchun: f(x)= 10 - x1^2 - x2^2
     return 10 + np.sum(-1 * np.power(x, 2), axis=1)
-
 
 def mc_integrate(func, a, b, dim, n=1000):
     # Monte-Karloda berilgan funktsiyani domen orqali a dan b gacha integratsiyalash (har bir parametr uchun) 

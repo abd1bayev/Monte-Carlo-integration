@@ -1,11 +1,9 @@
 import numpy as np
 
-
 def func1(x):
     # funksiya f(x)= 10 + sum_i(-x_i^2) 6 
     # 2D uchun: f(x)= 10 - x1^2 - x2^2
     return 10 + np.sum(-1 * np.power(x, 2), axis=1)
-
 
 def domain_unit_circle(x):
 # integratsiya domeni: x^2 <= 1 yig'indisi. 12 
@@ -14,11 +12,9 @@ def domain_unit_circle(x):
 
     return np.power(x, 2).sum() <= 1
 
-
 def mc_integrate(func, func_domain, a, b, dim, n=1000):
     # Func_domain tomonidan belgilangan domen orqali berilgan funksiyaning Monte-Karlo integratsiyasi 20 21 
     # xira: funktsiya o'lchamlari
-
     # namuna x
     x_list = np.random.uniform(a, b, (n, dim))
 

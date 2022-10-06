@@ -3,7 +3,6 @@ from Bir_ozgaruvchan import mc_integrate
 import numpy as np
 import scipy.stats as st
 
-
 class func_mvn:
     # ko'p o'zgaruvchan normal berilgan o'rtacha va kovariatsiya
     def __init__(self, mu, cov):
