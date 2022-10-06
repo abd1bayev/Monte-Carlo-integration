@@ -3,8 +3,7 @@
 - Monte-Karlo integratsiyasi - bu funktsiyaning integratsiyasini raqamli baholash uchun asosiy Monte-Karlo usulif( x ). Biz bu erda nazariyani Pythondagi misollar bilan birga muhokama qilamiz.
 # Misol | Bir o'zgaruvchan
 - Misol tariqasida, Python-da biz integratsiyani taxminiy hisoblash uchun quyidagilarni bajarishimiz mumkin 
-![](../../../../../../../var/folders/lq/7btllx4953scrkzwd28d3q040000gp/T/TemporaryItems/NSIRD_screencaptureui_BAZIsz/Снимок экрана 2022-10-06 в 13.13.36.png)
-
+![img_1.png](img_1.png)
 Biz quyidagi natijalarga erishamiz:
 
 - Monte Karlo yechimi: 5.3323
