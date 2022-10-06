@@ -4,7 +4,7 @@
 # Misol | Bir o'zgaruvchan
 - Misol tariqasida, Python-da biz integratsiyani taxminiy hisoblash uchun quyidagilarni bajarishimiz mumkin 
 
-- <img width="625" alt="Снимок экрана 2022-10-06 в 14 22 46" src="https://user-images.githubusercontent.com/99121169/194277392-85569b98-190a-4329-8891-8c64fd4de5f6.png">
+![image](https://user-images.githubusercontent.com/99121169/194283707-33a0bd4e-f156-4562-8163-1255a0a60d82.png)
 
 Biz quyidagi natijalarga erishamiz:
 
