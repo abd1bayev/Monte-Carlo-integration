@@ -1,4 +1,4 @@
-<img width="340" alt="Снимок экрана 2022-10-06 в 15 20 37" src="https://user-images.githubusercontent.com/99121169/194289122-a9730b87-e08b-484e-ad5e-764406930885.png"> <img width="284" alt="Снимок экрана 2022-10-06 в 15 22 02" src="https://user-images.githubusercontent.com/99121169/194289448-cd0441ab-917a-4aab-8a3d-c697149b7ca3.png">
+<img width="340" alt="Снимок экрана 2022-10-06 в 15 20 37" src="https://user-images.githubusercontent.com/99121169/194289122-a9730b87-e08b-484e-ad5e-764406930885.png">.      <img width="284" alt="Снимок экрана 2022-10-06 в 15 22 02" src="https://user-images.githubusercontent.com/99121169/194289448-cd0441ab-917a-4aab-8a3d-c697149b7ca3.png">
 
 
 # Python-da bir o'zgaruvchan va ko'p o'lchovli funktsiyalar bo'yicha Monte-Karlo integratsiyasi
